@@ -1,19 +1,15 @@
-Hi!
+# Hi there, I'm Oussama Tailba! 👋
+I'm a software developer from Morocco specializing in JavaScript, TypeScript, Node.js, React, and Express. I love building efficient and scalable web applications.
 
-<!--
-### Hi there 👋
+## 🚀 Technologies & Tools
+- Languages: JavaScript, TypeScript
+- Backend: Node.js, Express
+- Frontend: React
+- Databases: MongoDB, MySQL
+
+## 💬 Connect with Me
+[LinkedIn](https://www.linkedin.com/in/oussamatailba/ "@embed")
+[Portfolio](http://portfolio.ousta.dev/ "@embed")
 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
-**Oustaa/Oustaa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
--->
+Thanks for visiting my profile! Let's connect and create something amazing together.
