@@ -8,8 +8,8 @@ I'm a software developer from Morocco specializing in JavaScript, TypeScript, No
 - Databases: MongoDB, MySQL
 
 ## 💬 Connect with Me
-[LinkedIn](https://www.linkedin.com/in/oussamatailba/ "@embed")
-[Portfolio](http://portfolio.ousta.dev/ "@embed")
+- [LinkedIn](https://www.linkedin.com/in/oussamatailba/ "@embed")
+- [Portfolio](http://portfolio.ousta.dev/ "@embed")
 
 
 Thanks for visiting my profile! Let's connect and create something amazing together.
