@@ -3,7 +3,7 @@ I'm a software developer from Morocco specializing in JavaScript, TypeScript, No
 
 ## 🚀 Technologies & Tools
 - Tools: AWS, Docker, Figma. 
-- Languages: JavaScript, TypeScript.
+- Languages: JavaScript, TypeScript, C++.
 - Backend: Node.js, Express.
 - Frontend: React, React Native.
 - Databases: MongoDB, MySQL.
