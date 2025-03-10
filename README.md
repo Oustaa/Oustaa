@@ -13,7 +13,6 @@ I'm diving into Go and working on advancing my C++ concepts to enhance my system
 
 ## 💬 Connect with Me
 - [LinkedIn](https://www.linkedin.com/in/oussamatailba/ "@embed")
-- [Portfolio](http://portfolio.ousta.dev/ "@embed")
-
+- [Portfolio](http://portfolio.ousta.dev/ "@blank")
 
 Thanks for visiting my profile! Let's connect and create something amazing together.
