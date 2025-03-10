@@ -8,11 +8,11 @@ I'm a software developer from Morocco specializing in JavaScript, TypeScript, No
 - Frontend: React, React Native.
 - Databases: MongoDB, MySQL.
 
-## 📚 Currently Learning
-I'm diving into Go and working on advancing my C++ concepts to enhance my system programming and performance optimization skills.
+## 📚 Currently Learning  
+I'm diving into **Go** and working on advancing my **C++ concepts** to enhance my system programming and performance optimization skills.  
 
-## 💬 Connect with Me
-- [LinkedIn](https://www.linkedin.com/in/oussamatailba/ "@embed")
-- [Portfolio](http://portfolio.ousta.dev/ "@blank")
+## 💬 Connect with Me  
+- [LinkedIn](https://www.linkedin.com/in/oussamatailba/ "@embed")  
+- [Portfolio](http://portfolio.ousta.dev/ "@embed")
 
 Thanks for visiting my profile! Let's connect and create something amazing together.
