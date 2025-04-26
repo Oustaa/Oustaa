@@ -16,5 +16,3 @@ I'm diving into **Go** and working on advancing my **C++ concepts** to enhance m
 - [Portfolio](http://portfolio.ousta.dev/ "@embed")
 
 Thanks for visiting my profile! Let's connect and create something amazing together.
-
-![oustaa's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=oustaa&theme=vue-dark&show_icons=true&hide_border=false&layout=compact)
