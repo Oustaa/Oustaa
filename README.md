@@ -3,13 +3,13 @@ I'm a software developer from Morocco specializing in JavaScript, TypeScript, No
 
 ## 🚀 Technologies & Tools
 - Tools: AWS, Docker, Figma. 
-- Languages: JavaScript, TypeScript, C++ (learning), Go (learning).
-- Backend: Node.js, Express.
-- Frontend: React, React Native.
+- Languages: JavaScript, TypeScript, PHP, Go.
+- Backend: Node.js, Express, Laravel.
+- Frontend: React, React Native, TailwindCss.
 - Databases: MongoDB, MySQL.
 
 ## 📚 Currently Learning  
-I'm diving into **Go** and working on advancing my **C++ concepts** to enhance my system programming and performance optimization skills.  
+I'm diving into **Java** and working on advancing my **C++ concepts** to enhance my system programming and performance optimization skills.  
 
 ## 💬 Connect with Me  
 - <a href="https://www.linkedin.com/in/oussamatailba/" target="_blank">LinkedIn</a>  
