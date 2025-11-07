@@ -14,6 +14,6 @@ I'm diving into **Java** and working on advancing my **C++ concepts** to enhance
 ## 💬 Connect with Me  
 - <a href="https://www.linkedin.com/in/oussamatailba/" target="_blank">LinkedIn</a>  
 - <a href="http://portfolio.ousta.dev/" target="_blank">Portfolio</a>  
-- <a href="https://www.twitch.tv/oussta6" target="_blank">Twitch</a>
+- <a href="https://www.twitch.tv/ousta6" target="_blank">Twitch</a>
 
 Thanks for visiting my profile! Let's connect and create something amazing together.
